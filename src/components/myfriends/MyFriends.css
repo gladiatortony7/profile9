@@ -1,0 +1,17 @@
+#section9 > h1{
+    color:indianred;
+    text-align: center;
+    text-transform: capitalize;
+}
+#section10 > h3{
+    color:blueviolet;
+    height: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    
+
+}
+.max{
+    background-color: cyan;
+    height: 200px;
+}

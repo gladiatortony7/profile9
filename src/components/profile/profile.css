@@ -1,18 +1,22 @@
-.try{
-    background-color: brown;
-    height: 50px;
-    margin:5px;
- 
-    
-}
-h1{
-    color:azure;
-    border: 5px solid powderblue;
-    text-align: center;
+#section2 > h3{
+    text-align: center ;
     text-transform: capitalize;
+    color:rgb(22, 22, 107);
+    outline-style: dashed;
+
 }
-h3{
-    background-color: cadetblue;
-    height: 25px;
-    font-family: 'Courier New', Courier, monospace;
+#section1 > h1{
+    color:aliceblue;
+    font-size:xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font:bolder;
+    text-align: center;
+    margin:0px;
+}
+
+.try{
+    background-color:dimgrey;
+    height:225px;
+    
+    
 }

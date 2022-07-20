@@ -1,0 +1,17 @@
+#section7 > h1{
+    color:brown;
+    text-align: center;
+    text-transform: capitalize;
+    outline-style: dotted;
+
+}
+#section8 > h3{
+    color: black;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.aux{
+    background-color:turquoise;
+    height: 450px;
+}

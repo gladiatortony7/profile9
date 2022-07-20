@@ -1,0 +1,17 @@
+.Box{
+    padding: 10px;
+    border-radius: 4px;
+    text-align:center;
+    color: black;
+    font-weight: 700;
+    background-color: blueviolet;
+    box-shadow:  2px 2px 2px  rgb(100, 200, 220)
+}
+#section5 > h1{
+    text-align: center;
+    color: cornsilk;
+}
+#section6 > h3{
+    text-align: center;
+    outline-style: dashed;
+}

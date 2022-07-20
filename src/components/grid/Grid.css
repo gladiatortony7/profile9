@@ -1,0 +1,24 @@
+.Grid {
+    padding:10px;
+    border-radius: 4px;
+    text-align:center;
+    font-weight: 700;
+    background-color:darkkhaki;
+    gap: 10px;
+    padding:10px;
+    display: grid;
+    
+    
+}
+#section4 > h3{
+    color:darkred;
+    outline-style:double;
+    outline-color:darkslategray;
+}
+#section3 > h1{
+    color: darkgreen;
+    outline-style:outset;
+    outline-color: saddlebrown;
+}
+
+
